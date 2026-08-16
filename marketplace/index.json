@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "vision-training",
+      "type": "spec",
+      "name": "Vision Training",
+      "description": "视觉算法训练、评估与实验复现规范",
+      "path": "marketplace/specs/vision-training",
+      "tags": ["computer-vision", "pytorch", "training", "experiments"]
+    },
+    {
+      "id": "llm-api",
+      "type": "spec",
+      "name": "LLM API",
+      "description": "大模型 API 调用、批处理与评估规范",
+      "path": "marketplace/specs/llm-api",
+      "tags": ["llm", "api", "evaluation", "experiments"]
+    }
+  ]
+}
